@@ -1,4 +1,5 @@
 <?php
+/// pasar la fecha por GET
 error_reporting(-1);
 error_reporting(0);
 error_reporting(E_ALL);
